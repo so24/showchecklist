@@ -14,7 +14,7 @@ window.TrelloPowerUp.initialize({
               // 3. カード表面に表示する内容を設定
               text: '次: ' + incompleteItem.name, 
               color: 'blue', // バッジの色
-              icon: './icon.svg' // アイコン（任意）
+              //icon: './icon.svg' // アイコン（任意）
             }];
           }
         }
