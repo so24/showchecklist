@@ -1,4 +1,4 @@
-window.TrelloPowerUp.initialize({
+TrelloPowerUp.initialize({
   'card-badges': function(t, options) {
     // 1. カードのチェックリスト情報を取得
     return t.card('checklists')
